@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ASyncLoad/ASyncMainScene.unity
+    guid: 60ebe3ed4ed0b854a898ba9d28549587
+  - enabled: 1
+    path: Assets/Scenes/ASyncLoad/ASyncAScene_Geo.unity
+    guid: 0ac06287c0ef1c640886907e59eac8cf
   m_configObjects: {}
